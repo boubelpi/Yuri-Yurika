@@ -11,6 +11,7 @@
 		65B1BA9D296EC16B0033B75F /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 65B1BA9C296EC16B0033B75F /* ContentView.swift */; };
 		65B1BA9F296EC16C0033B75F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 65B1BA9E296EC16C0033B75F /* Assets.xcassets */; };
 		65B1BAA3296EC16C0033B75F /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 65B1BAA2296EC16C0033B75F /* Preview Assets.xcassets */; };
+		65B1BAAC296ECC600033B75F /* scroll.swift in Sources */ = {isa = PBXBuildFile; fileRef = 65B1BAAB296ECC600033B75F /* scroll.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +21,7 @@
 		65B1BA9E296EC16C0033B75F /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		65B1BAA0296EC16C0033B75F /* Yuri_Yurika.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = Yuri_Yurika.entitlements; sourceTree = "<group>"; };
 		65B1BAA2296EC16C0033B75F /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		65B1BAAB296ECC600033B75F /* scroll.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = scroll.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +56,7 @@
 			children = (
 				65B1BA9A296EC16B0033B75F /* Yuri_YurikaApp.swift */,
 				65B1BA9C296EC16B0033B75F /* ContentView.swift */,
+				65B1BAAB296ECC600033B75F /* scroll.swift */,
 				65B1BA9E296EC16C0033B75F /* Assets.xcassets */,
 				65B1BAA0296EC16C0033B75F /* Yuri_Yurika.entitlements */,
 				65B1BAA1296EC16C0033B75F /* Preview Content */,
@@ -139,6 +142,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				65B1BAAC296ECC600033B75F /* scroll.swift in Sources */,
 				65B1BA9D296EC16B0033B75F /* ContentView.swift in Sources */,
 				65B1BA9B296EC16B0033B75F /* Yuri_YurikaApp.swift in Sources */,
 			);

@@ -11,7 +11,7 @@ import SwiftUI
 struct Yuri_YurikaApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            scroll()
         }
     }
 }
